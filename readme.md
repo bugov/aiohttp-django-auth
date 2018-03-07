@@ -32,6 +32,6 @@ Git https://github.com/bugov/aiohttp-django-auth
 Copyright (C) 2018, Georgy Bazhukov.
 
 This program is free software, you can redistribute it and/or modify it
-under the terms of the Artistic License version 2.0.
+under the terms of the MIT License.
 
 
